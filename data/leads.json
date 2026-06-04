@@ -12,7 +12,7 @@
     "name": "Jane Smith",
     "phone": "+919111111111",
     "source": "test",
-    "flag": false,
+    "flag": true,
     "status": "new"
   },
   {
